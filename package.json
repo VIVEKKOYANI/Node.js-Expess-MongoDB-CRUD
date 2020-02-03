@@ -1,0 +1,25 @@
+{
+  "name": "node.js-expess-mongodb-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VIVEKKOYANI/Node.js-Expess-MongoDB-CRUD.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VIVEKKOYANI/Node.js-Expess-MongoDB-CRUD/issues"
+  },
+  "homepage": "https://github.com/VIVEKKOYANI/Node.js-Expess-MongoDB-CRUD#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.8.11"
+  }
+}
